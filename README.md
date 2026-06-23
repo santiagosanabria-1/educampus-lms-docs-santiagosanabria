@@ -6,6 +6,10 @@ EduCampus LMS es una solución web académica diseñada para centralizar la gest
 
 Centralizar los procesos académicos de una institución educativa mediante una solución web modular.
 
+
 ## Estado del proyecto
 
 Documentación inicial en construcción.
+
+### Actualización del Líder Técnico:
+- Se establece la arquitectura base del backend.
