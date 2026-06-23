@@ -1,6 +1,7 @@
  # EduCampus LMS
 
-EduCampus LMS es una plataforma educativa para la gestión de cursos, usuarios, evaluaciones y reportes académicos.
+EduCampus es una app que te ayuda a los trabajos pesados de campus
+
 
 ## Objetivo
 
