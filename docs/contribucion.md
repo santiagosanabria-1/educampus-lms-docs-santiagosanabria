@@ -1,4 +1,4 @@
-> # Guía de Contribución - EduCampus LMS
+ # Guía de Contribución - EduCampus LMS
 > 
 > Esta guía detalla el flujo de trabajo para colaborar en el proyecto.
 > 
